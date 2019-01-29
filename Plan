@@ -1,0 +1,22 @@
+# 1 Levelin suunnittelu probuilderilla
+- Useampi erikokoinen huone, joissa tasoeroja, joilla luodaan huoneeseen pulma
+- Joissain huoneissa on kytkimiä, joiden päälle pitää asettaa objekti, jotta ovi tms. aukeaa toisaalla huoneessa
+# 2 Partikkeliefektit portaaleille
+- Partikkelit portaalin ympärillä
+- Partikkeli kun portaali luodaan (ammutaan portal gunilla)
+- Portalin keskiosassa on kameranäkymä toisen portaalin näkövinkkelistä
+- Mesh keskellä johon heijastetaan toisen pään portaalin kameran näkymä
+# 3 Liikuteltavien objektien suunnittelu ja scriptaus
+- Friend cube
+- Penkki
+- Pallo
+- Jotain muita objekteja
+- Objekteilla on omat massansa ja objektin massasta riippuen objekti on nostettavissa yhdellä kädellä, kahdella kädellä tai ei ollenkaan
+# 4 Pelihahmon scriptaus
+# 5 Menun suunnittelu
+# 6 Portal gun ja sen scriptaus
+# 7 Kontrollit
+- Esineiden poimiminen "sivunapeilla"
+- Portaaleiden ampuminen triggereillä (vasemman käden trigger ampuu toisen portaalin ja oikean käden trigger ampuu toisen)
+- "Pyörällä" liikutaan hiljalleen
+- Vasen käsi ampuu toisen portaalin ja oikea toisen
